@@ -111,11 +111,6 @@
   <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%"/>
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=avinav456&show_icons=true&theme=radical" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinav456&layout=compact&theme=radical" />
-</p>
 
 ---
 ## 📊 GitHub Stats
