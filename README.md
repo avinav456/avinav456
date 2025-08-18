@@ -107,12 +107,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%"/>
-</p>
-
-
----
 <!-- ===================== ACHIEVEMENTS ===================== -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" alt="divider"/>
