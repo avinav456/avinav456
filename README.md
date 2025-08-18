@@ -1,8 +1,8 @@
 <!-- Header -->
 <h1 align="center">👋 Hi, I'm Avinav</h1>
-<p align="center">
+<!-- <p align="center">
   🚀 CS Student @ Seneca | Full-Stack Developer in Progress | <strong>Seeking Co-op Winter 2026</strong>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=avinav456&label=Profile%20Visitors&color=ff69b4&style=flat" alt="visitor badge"/>
@@ -20,7 +20,7 @@
 - 🔎 Exploring **full-stack web development, cloud computing, and AI tools**  
 - 📚 Always building side projects to sharpen my skills  
 - 🌍 Based in **Toronto, ON**  
-- ✨ Fun fact: I’m a **state-level chess champion & badminton gold medalist**  
+
 
 ---
 
@@ -95,4 +95,15 @@
   <a href="mailto:avinavg456@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/avinav-a49142245"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/avinav-a49142245"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%"/>
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=avinav456&label=Profile%20Visitors&color=ff69b4&style=flat" alt="visitor badge"/>
 </p>
