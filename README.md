@@ -4,9 +4,6 @@
   🚀 CS Student @ Seneca | Full-Stack Developer in Progress | <strong>Seeking Co-op Winter 2026</strong>
 </p> -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=avinav456&label=Profile%20Visitors&color=ff69b4&style=flat" alt="visitor badge"/>
-</p>
 
 ---
 
