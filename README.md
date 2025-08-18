@@ -30,7 +30,7 @@
 - ☁️ Exploring **Next.js**, **MongoDB/Mongoose**, **cloud basics**, and **AI tooling**
 - 🧠 Big on clean code, meaningful commits, and readable docs
 - 📍 Based in **Toronto, ON**
-- ♟️ Fun: state-level **chess** champ & **badminton** gold medalist
+
 
 <!-- gif divider -->
 <p align="center">
@@ -86,7 +86,7 @@
 - 🎮 **Fruit Catcher (CS50x)** — Small Scratch game  
   _Scratch_ • **Demo:** (add link)
 
-> Tip: Pin your top 4 repos on your profile.
+
 
 <!-- gif divider -->
 <p align="center">
