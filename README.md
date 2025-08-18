@@ -34,7 +34,7 @@
   <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%"/>
 </p>
 
-## 🛠️ Tech Toolbox
+
 
 ## 🛠️ Tech Toolbox
 
@@ -103,10 +103,7 @@
 ## 🚀 Featured Projects
 - 📈 **Real-Time Stock Tracker** → Live stock quotes with Python APIs  
 - 🏛️ **Museum Sites Explorer** → Next.js app using SWR & Bootstrap  
-- ⚡ **Express API** → CRUD API with MongoDB Atlas, deployed on Vercel  
-- 🎮 **Fruit Catcher Game** → CS50x Scratch project  
-
-*(👉 Pin these repos on your profile for quick access!)*  
+  
 
 ---
 
