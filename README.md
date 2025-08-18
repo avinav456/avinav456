@@ -113,25 +113,43 @@
 
 
 ---
-## 📊 GitHub Stats
+<!-- ===================== ACHIEVEMENTS ===================== -->
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=avinav456&show_icons=true&theme=radical" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinav456&layout=compact&theme=radical" />
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" alt="divider"/>
 </p>
 
----
+## 🏆 GitHub Achievements
 
-## 🔥 GitHub Streaks
+<!-- Stats + Streaks side-by-side -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>GitHub Stats</strong><br/>
+      <img height="160" src="https://github-readme-stats.vercel.app/api?username=avinav456&show_icons=true&theme=radical" alt="stats"/>
+    </td>
+    <td align="center">
+      <strong>Current & Longest Streak</strong><br/>
+      <img height="160" src="https://streak-stats.demolab.com?user=avinav456&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="streaks"/>
+    </td>
+  </tr>
+</table>
+
+<!-- Top languages under the table (compact) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=avinav456&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinav456&layout=compact&theme=radical" alt="top-langs"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
+<!-- Trophies row -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=avinav456&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15"/>
+  <strong>GitHub Trophies</strong><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=avinav456&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15" alt="trophies"/>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" alt="divider"/>
+</p>
+<!-- =================== /ACHIEVEMENTS END =================== -->
+
 
 
 <p align="center">
