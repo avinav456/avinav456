@@ -4,7 +4,15 @@
   🚀 CS Student @ Seneca | Full-Stack Developer in Progress | <strong>Seeking Co-op Winter 2026</strong>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=avinav456&label=Profile%20Visitors&color=ff69b4&style=flat" alt="visitor badge"/>
+</p>
+
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%"/>
+</p>
 
 ## 🌟 About Me
 - 🎓 Computer Programming & Analysis student at **Seneca College**  
@@ -16,12 +24,21 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%"/>
+</p>
+
 ## 🎯 Currently Seeking
 > 💼 **Co-op / Internship (Winter 2026)** in **Software Development / IT / Cybersecurity**  
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%"/>
+</p>
+
 ## 🛠️ Tech Toolbox
+
 ### Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -43,15 +60,23 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%"/>
+</p>
+
 ## 🚀 Featured Projects
 - 📈 **Real-Time Stock Tracker** → Live stock quotes with Python APIs  
 - 🏛️ **Museum Sites Explorer** → Next.js app using SWR & Bootstrap  
 - ⚡ **Express API** → CRUD API with MongoDB Atlas, deployed on Vercel  
 - 🎮 **Fruit Catcher Game** → CS50x Scratch project  
 
-*(Pin these repos on your profile for quick access!)*  
+*(👉 Pin these repos on your profile for quick access!)*  
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%"/>
+</p>
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -60,6 +85,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%"/>
+</p>
 
 ## 🌐 Connect With Me
 <p>
