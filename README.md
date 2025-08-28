@@ -151,7 +151,7 @@
 <p>
   <a href="mailto:avinavg456@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/avinav-a49142245"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/avinav-a49142245"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a>
+  <a href="https://portfolio-website-58v9.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
